@@ -12,6 +12,11 @@ MATKUL :BAHASA PEMROGRAMAN
 ### LATIHAN 1
 
 * Menampilkan bilangan N  yang lebih kecil dari 0.5 <br>
+
+Input Masukan Nilai N <br>
+Import random untuk membangkitkan nilai random <br>
+Gunakan perulangan for disebut sebagai counted loop perulangan yang terhitung, yaitu perintah yang dieksekusi secara berulang berdasarkan jumlah perulangan tertentu<br>
+
  
 ```python
 
@@ -29,6 +34,10 @@ print()
 ### LATIHAN 2
 
 * Membuat program untuk menampilkan bilangan terbesar dari n buah data yang diinputkan dan memasukan angka 0 untuk berhenti.
+
+Masukan angka1=0 <br>
+gunakan perulangan while yang duisebut uncounted loop perulangan yang tak terhitung berdasarkan kondisi tertentu selama kondisi bernilai TRUE.<br>
+
 
  ``` python
  angka1=0
