@@ -16,6 +16,7 @@ MATKUL :BAHASA PEMROGRAMAN
 Input Masukan Nilai N <br>
 Import random untuk membangkitkan nilai random <br>
 Gunakan perulangan for disebut sebagai counted loop perulangan yang terhitung, yaitu perintah yang dieksekusi secara berulang berdasarkan jumlah perulangan tertentu<br>
+Range nilai awal, nilai akhir, nilai kenaikan<br>
 
  
 ```python
@@ -37,6 +38,8 @@ print()
 
 Masukan angka1=0 <br>
 gunakan perulangan while yang duisebut uncounted loop perulangan yang tak terhitung berdasarkan kondisi tertentu selama kondisi bernilai TRUE.<br>
+break digunakan untuk menghentikan proses perulangan pada kondisi tertentu<br>
+
 
 
  ``` python
